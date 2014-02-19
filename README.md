@@ -3,7 +3,7 @@ ARTEMIS
 
 ARTEMIS (pArticle transport, Recombination, and Trapping in sEMiconductor Imaging Simulations) is a Monte Carlo package for X-ray, electron and electron-hole pair (EHP) transport. X-ray and secondary electron interactions in the presence of an electric field are modeled by PENELOPE 2006, and the locations of inelastic electron interactions are coupled in space and time to the transport routine for EHP simulation. ARTEMIS was developed at the U. S. Food and Drug Administration (FDA), Center for Devices and Radiological Health, Office of Science and Engineering Laboratories, Division of Imaging and Applied Mathematics. Please report to the authors any issue/bug that you may encounter.
 
-The source code and documentation of ARTEMIS are openly distributed at the website: http://code.google.com/p/artemis/ . The following disclaimer notice applies to the code and documentation developed exclusively at the FDA (this disclaimer is provided at the beginning of each file developed at the FDA):
+The source code and documentation of ARTEMIS are openly distributed at the website: http://code.google.com/p/artemis/ and can be downloaded from http://github.com/diamfda/ARTEMIS . The following disclaimer notice applies to the code and documentation developed exclusively at the FDA (this disclaimer is provided at the beginning of each file developed at the FDA):
 
 Code disclaimer
 ---------------
